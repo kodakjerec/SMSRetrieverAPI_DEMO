@@ -13,7 +13,7 @@ AVD Emulator (with GooglePlay Store)
 3. See Android Studio Debug console, copy hash code, paste it in next step.  
 (thanks AppSignatureHelper.java, remove it before you publish your app)  
 <img src="readmePics/pic02.png">
-4. Open emulator settings->phone->send message
+4. Open emulator settings->phone->send message.  
 SMS message format:  
 <#>  Your ExampleApp code is: 123ABC78 __bMWGb1odbbw__  
 <img src="readmePics/pic03.png" height="300px">
